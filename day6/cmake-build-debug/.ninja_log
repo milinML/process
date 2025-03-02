@@ -1,0 +1,6 @@
+# ninja log v6
+3	67	7627924310198727	CMakeFiles/day6.dir/a.cpp.obj	d5205b1860e22179
+10	304	7627924310274597	CMakeFiles/day6.dir/main.cpp.obj	3c7c78041afcb6db
+305	428	7627924313236801	day6.exe	91de775f53cc9da2
+6	446	7627931352321373	CMakeFiles/day6.dir/main.cpp.obj	3c7c78041afcb6db
+8	157	7627931357619711	day6.exe	91de775f53cc9da2
